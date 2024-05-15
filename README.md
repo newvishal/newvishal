@@ -1,5 +1,4 @@
-
-- My name is Vishal Singh and I am a full time developer working predominantly in full-stack web development in India.
+My name is Vishal Singh and I am a full time developer working predominantly in full-stack web development in India.
 
 - Deep knowledge of JS, Typescript, Nodejs, Angular, Fastapi
 - Have experience in working with DDD, AWS SQS, Redis, Socket, ELK, Knex, Alembic, Mongoose
