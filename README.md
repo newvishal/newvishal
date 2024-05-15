@@ -1,7 +1,7 @@
 My name is Vishal Singh and I am a full time developer working predominantly in full-stack web development in India.
 
 - Deep knowledge of JS, Typescript, Nodejs, Angular, Fastapi
-- Have experience in working with DDD, AWS SQS, Redis, Socket, ELK, Knex, Alembic, Mongoose
+- Have experience in working with DDD, AWS SQS, Redis, Socket, ELK, Knex, Alembic, Mongoose, RabbitMQ
 - Have experience in microservices and clean Architecture
 - Familiar with Docker
 - Relational database schema design and querying
